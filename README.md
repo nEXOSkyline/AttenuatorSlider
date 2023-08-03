@@ -19,8 +19,8 @@ https://a360.co/3QpZX1w
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 What has been done:
-	Most of the hardware compononts has been designed, modeled, and printed via Fusion 360
-	Most of the electronics/circuity has been wired and connected into a closed circuit
+Most of the hardware compononts has been designed, modeled, and printed via Fusion 360
+Most of the electronics/circuity has been wired and connected into a closed circuit
 
 What still needs to be done: 
 	The whole hardware setup needs to be tested at SLAC to see if the dimensions and design has been improved from the last time that I tested it.

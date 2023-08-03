@@ -45,4 +45,4 @@ The two black wires should be wired to digital pins 8 and 10, while the two red 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Lastly, if there is anything that is unclear or needs to be done, ask the Professor. As for the files or anything else that has been worked on by me, the professor should be able to help you. However, if he cannot, have him contact me. 
+Lastly, if there is anything that is unclear or needs to be done, ask the Professor. As for the files or anything else that has been worked on by me, the professor should be able to help you. However, if he cannot, have him contact me and I can help out.

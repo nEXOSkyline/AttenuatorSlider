@@ -19,8 +19,8 @@ https://a360.co/3QpZX1w
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 What has been done:
-Most of the hardware compononts has been designed, modeled, and printed via Fusion 360
-Most of the electronics/circuity has been wired and connected into a closed circuit
+Most of the hardware compononts has been designed, modeled, and printed via Fusion 360.
+Most of the electronics/circuity has been wired and connected into a closed circuit.
 
 What still needs to be done: 
 	The whole hardware setup needs to be tested at SLAC to see if the dimensions and design has been improved from the last time that I tested it.
@@ -45,4 +45,4 @@ The two black wires should be wired to digital pins 8 and 10, while the two red 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Lastly, if there is anything that is unclear, ask the Professor, who can contact me. 
+Lastly, if there is anything that is unclear or needs to be done, ask the Professor. As for the files or anything else that has been worked on by me, the professor should be able to help you. However, if he cannot, have him contact me. 

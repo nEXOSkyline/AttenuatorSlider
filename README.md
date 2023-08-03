@@ -5,11 +5,13 @@ The dimensions/measurements for the two models can be found from the model thems
 I suggest creating a sketch on the face that has the edge that you are trying to get the dimensions from and then using the dimensions feature to acquire the measurement of whatever edge, face, etc.
 
 The first model contains the primary bracket that is attached on top of the laser as well as the support L-Bracket that connects the primary bracket to the Fuyu Linear Sliding Stage
+
 Here is the link to the Fusion 360 file, in case the DWG file that I attached does not work. 
 https://a360.co/3OoeHLH
 
 
 The second model contains the limit swtich fixture that holds the two limit switches in place. 
+
 Here is the link to the Fusion 360 file, in case the DWG file that I attached does not work. 
 https://a360.co/3QpZX1w
 
